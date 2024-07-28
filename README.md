@@ -37,6 +37,9 @@ This repository contains a collection of websites and tools that I have found us
 - [Udemy](https://www.udemy.com): Online learning platform with a variety of courses.
 - [W3Schools](https://www.w3schools.com): Web development tutorials.
 
+## Design and Prototyping
+- [Figma](https://www.figma.com): Collaborative interface design tool.
+
 ## Emoji and Image Tools
 - [EmojiCopy.com](https://www.emojicopy.com): Comprehensive emoji library.
 - [Icons8](https://icons8.com): Free transparent images and customizable icons.
@@ -69,6 +72,9 @@ This repository contains a collection of websites and tools that I have found us
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
 
+## Storyboarding Tools
+- [Storyboard That](https://www.storyboardthat.com): Create storyboards for various purposes.
+
 ## Supercomputer and Cybersecurity
 - [DigitalAttackMap.com](https://www.digitalattackmap.com): Global DDoS attack data visualization.
 - [Top500.org](https://www.top500.org): Tracking the world's most powerful supercomputers.
@@ -93,12 +99,6 @@ This repository contains a collection of websites and tools that I have found us
 ## Writing and Readme Files
 - [Readme.so](https://readme.so): Create README files without knowing Markdown.
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
-
-## Storyboarding Tools
-- [Storyboard That](https://www.storyboardthat.com): Create storyboards for various purposes.
-
-## Design and Prototyping
-- [Figma](https://www.figma.com): Collaborative interface design tool.
 
 ## Miscellaneous
 - [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Media download tools from torrents.
