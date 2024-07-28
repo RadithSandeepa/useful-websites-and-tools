@@ -97,6 +97,9 @@ This repository contains a collection of websites and tools that I have found us
 ## Storyboarding Tools
 - [Storyboard That](https://www.storyboardthat.com): Create storyboards for various purposes.
 
+## Design and Prototyping
+- [Figma](https://www.figma.com): Collaborative interface design tool.
+
 ## Miscellaneous
 - [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Media download tools from torrents.
 - [CineMaterial](https://www.cinematerial.com): Movie poster library.
