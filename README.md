@@ -88,16 +88,19 @@ This repository contains a collection of websites and tools that I have found us
 - [Jest](https://jestjs.io): JavaScript testing framework.
 
 ## Website Status and Downtime
-- [DownDetector.com](https://downdetector.com): Check website status and downtime.
+- [DownDetector](https://downdetector.com): Check website status and downtime.
 
 ## Writing and Readme Files
 - [Readme.so](https://readme.so): Create README files without knowing Markdown.
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
 
+## Storyboarding Tools
+- [Storyboard That](https://www.storyboardthat.com): Create storyboards for various purposes.
+
 ## Miscellaneous
 - [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Media download tools from torrents.
 - [CineMaterial](https://www.cinematerial.com): Movie poster library.
 - [Lightnovelpub](https://www.lightnovelpub.com) / [Lightnovelworld](https://www.lightnovelworld.com): Light novel libraries.
-- [PineTools.com](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
+- [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
 - [Before I Play](https://beforeiplay.com): Game information and guidance.
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
