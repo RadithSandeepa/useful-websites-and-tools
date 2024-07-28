@@ -83,7 +83,7 @@ This repository contains a collection of websites and tools that I have found us
 - [TextCompare.org](https://www.textcompare.org): Compare two text files for differences.
 
 ## Trello
-- [Trello](https://trello.com): Kanban board for task management.
+- [Trello](https://trello.com): Kanban boards.
 
 ## Web Development and API Testing
 - [Insomnia](https://insomnia.rest): API testing tool.
