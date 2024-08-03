@@ -59,6 +59,7 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Image Editing and Logo Creation
 - [ImageToText](https://imagetotext.info): Convert images to text.
+- [I Love PDF](https://www.ilovepdf.com): Comprehensive PDF tools for editing, converting, and merging PDF files.
 - [Photopea](https://www.photopea.com): Online photo editing and logo creation tool.
 - [Remini AI](https://www.remini.ai): Photo editing using AI.
 
