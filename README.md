@@ -14,6 +14,13 @@ This repository contains a collection of websites and tools that I have found us
 - [Synthesia AI](https://www.synthesia.io): Video generation using AI.
 - [Writesonic AI](https://writesonic.com): AI-powered writing tool.
 
+## Anime, Manga, Film, and Games
+- [Before I Play](https://beforeiplay.com): Game information and guidance.
+- [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Media download tools from torrents.
+- [CineMaterial](https://www.cinematerial.com): Movie poster library.
+- [Crunchyroll](https://www.crunchyroll.com): Streaming service for anime, manga, and drama.
+- [Lightnovelpub](https://www.lightnovelpub.com) / [Lightnovelworld](https://www.lightnovelworld.com): Light novel libraries.
+
 ## Business and Domain Names
 - [Looka](https://looka.com): Business name generator.
 - [Namecheap](https://www.namecheap.com): Domain name registration.
@@ -102,9 +109,5 @@ This repository contains a collection of websites and tools that I have found us
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
 
 ## Miscellaneous
-- [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Media download tools from torrents.
-- [CineMaterial](https://www.cinematerial.com): Movie poster library.
-- [Lightnovelpub](https://www.lightnovelpub.com) / [Lightnovelworld](https://www.lightnovelworld.com): Light novel libraries.
 - [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
-- [Before I Play](https://beforeiplay.com): Game information and guidance.
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
