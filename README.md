@@ -22,10 +22,10 @@ This repository contains a collection of websites and tools that I have found us
 - [Lightnovelpub](https://www.lightnovelpub.com) / [Lightnovelworld](https://www.lightnovelworld.com): Light novel libraries.
 
 ## Business and Domain Names
+- [Domain.lk](https://domain.lk): Domain name registration in Sri Lanka.
 - [Looka](https://looka.com): Business name generator.
 - [Namecheap](https://www.namecheap.com): Domain name registration.
 - [Register.lk](https://www.register.lk): Domain name registration in Sri Lanka.
-- [Domain.lk](https://domain.lk): Domain name registration in Sri Lanka.
 
 ## Charts and Diagrams
 - [Draw.io](https://draw.io): Diagram creation tool.
