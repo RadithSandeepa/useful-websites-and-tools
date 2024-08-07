@@ -76,6 +76,11 @@ This repository contains a collection of websites and tools that I have found us
 - [Savefrom.net](https://en.savefrom.net): YouTube video downloader.
 - [Y2mate](https://www.y2mate.com): Instant YouTube video downloader by adding "pp" after "youtube" in the URL.
 
+## Meetings and Collaboration
+- [Google Meet](https://meet.google.com): Video conferencing tool from Google.
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software): Collaboration and video conferencing tool from Microsoft.
+- [Zoom](https://zoom.us): Video conferencing and online meeting tool.
+
 ## Research and Academic Tools
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
