@@ -116,3 +116,7 @@ This repository contains a collection of websites and tools that I have found us
 ## Miscellaneous
 - [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
+
+## 3D Models and Resources
+- [Sketchfab](https://sketchfab.com): A platform for viewing, sharing, and downloading 3D models, including free and paid resources.
+
