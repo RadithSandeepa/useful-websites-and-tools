@@ -40,6 +40,8 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Courses and Learning Platforms
 - [Coursera](https://www.coursera.org): Online courses from top universities.
+- [Google Colab](https://colab.research.google.com): Cloud-based environment for coding and machine learning with Jupyter notebooks.
+- [Kaggle](https://www.kaggle.com): Data science platform offering datasets, competitions, and learning resources.
 - [Odin Project](https://www.theodinproject.com): Comprehensive learning platform for web development.
 - [Udemy](https://www.udemy.com): Online learning platform with a variety of courses.
 - [W3Schools](https://www.w3schools.com): Web development tutorials.
