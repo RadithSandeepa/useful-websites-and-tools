@@ -27,11 +27,6 @@ This repository contains a collection of websites and tools that I have found us
 - [Namecheap](https://www.namecheap.com): Domain name registration.
 - [Register.lk](https://www.register.lk): Domain name registration in Sri Lanka.
 
-## Charts and Diagrams
-- [Draw.io](https://draw.io): Diagram creation tool.
-- [Excalidraw](https://excalidraw.com): Hand-drawn style diagram creation tool.
-- [Lucidcharts](https://www.lucidchart.com): Professional chart and diagram creation.
-
 ## Community and Ideas
 - [Discord](https://discord.com): Platform for community discussions and ideas.
 - [Quora](https://www.quora.com): Q&A platform to get community ideas.
@@ -47,7 +42,11 @@ This repository contains a collection of websites and tools that I have found us
 - [W3Schools](https://www.w3schools.com): Web development tutorials.
 
 ## Design and Prototyping
+- [Draw.io](https://draw.io): Diagram creation tool.
+- [Excalidraw](https://excalidraw.com): Hand-drawn style diagram creation tool.
 - [Figma](https://www.figma.com): Collaborative interface design tool.
+- [Lucidcharts](https://www.lucidchart.com): Professional chart and diagram creation.
+- [Mockflow](https://www.mockflow.com): Wireframing and prototyping tool for designing user interfaces.
 
 ## Emoji and Image Tools
 - [EmojiCopy.com](https://www.emojicopy.com): Comprehensive emoji library.
