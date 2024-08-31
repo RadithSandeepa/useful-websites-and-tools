@@ -115,6 +115,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
 
 ## Miscellaneous
+- [Google Forms](https://www.google.com/forms/about/): A tool for creating surveys, quizzes, and forms with a variety of question types and response options.
 - [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
 
