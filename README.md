@@ -65,11 +65,12 @@ This repository contains a collection of websites and tools that I have found us
 - [Turnitin](https://www.turnitin.com): Plagiarism detection tool.
 - [WordCounter.net](https://www.wordcounter.net): Count words and check grammar.
 
-## Image Editing and Logo Creation
+## Image, Video Editing and Logo Creation
 - [ImageToText](https://imagetotext.info): Convert images to text.
 - [I Love PDF](https://www.ilovepdf.com): Comprehensive PDF tools for editing, converting, and merging PDF files.
 - [Photopea](https://www.photopea.com): Online photo editing and logo creation tool.
 - [Remini AI](https://www.remini.ai): Photo editing using AI.
+- [123apps](https://123apps.com): A suite of online tools for video and audio editing, PDF manipulation, file conversion, and more.
 
 ## Media Download and Torrenting
 - [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Tools for downloading media via torrents.
