@@ -83,6 +83,10 @@ This repository contains a collection of websites and tools that I have found us
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software): Collaboration and video conferencing tool from Microsoft.
 - [Zoom](https://zoom.us): Video conferencing and online meeting tool.
 
+## Random Task Generators and Name Drawers
+- [TaskMixr](https://taskmixr.com): Task assignment and management tool for teams.
+- [Wheel of Names](https://wheelofnames.com/): Create a customizable wheel where you can input team members or tasks and spin to make random selections.
+
 ## Research and Academic Tools
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
