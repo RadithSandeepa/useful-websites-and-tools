@@ -90,6 +90,7 @@ This repository contains a collection of websites and tools that I have found us
 ## Research and Academic Tools
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
+- [WorldMetrics](https://worldmetrics.org): Global metrics and statistics visualization for data insights.
 
 ## Storyboarding Tools
 - [Storyboard That](https://www.storyboardthat.com): Create storyboards for various purposes.
