@@ -117,6 +117,7 @@ This repository contains a collection of websites and tools that I have found us
 - [DownDetector](https://downdetector.com): Check website status and downtime.
 
 ## Writing and Readme Files
+- [Blind Text Generator](https://www.blindtextgenerator.com): Generate placeholder text for your projects with customizable formats like Lorem Ipsum or others.
 - [Readme.so](https://readme.so): Create README files without knowing Markdown.
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
 
