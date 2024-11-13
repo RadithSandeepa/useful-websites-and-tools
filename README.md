@@ -105,6 +105,9 @@ This repository contains a collection of websites and tools that I have found us
 ## Trello
 - [Trello](https://trello.com): Kanban board creation tool.
 
+## Weather and Visualization Tools
+- [Ventusky](https://www.ventusky.com): Real-time weather visualization with detailed maps of wind, temperature, and precipitation data.
+
 ## Web Development and API Testing
 - [Insomnia](https://insomnia.rest): API testing tool.
 - [Postman](https://www.postman.com): API testing and development tool.
