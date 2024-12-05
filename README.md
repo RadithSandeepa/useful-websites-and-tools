@@ -8,6 +8,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
 - [Replit AI](https://replit.com): Code generation using AI.
+- [Resumeworded](https://resumeworded.com): Helps improve your resume and LinkedIn profile to boost career prospects.
 - [Soundraw AI](https://soundraw.io): Music generation using AI.
 - [Starrytars AI](https://starrytars.com): Avatar generation using AI.
 - [Suno AI](https://suno.ai): Song creation from lyrics.
