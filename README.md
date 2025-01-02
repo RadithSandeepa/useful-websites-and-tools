@@ -46,6 +46,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Draw.io](https://draw.io): Diagram creation tool.
 - [Excalidraw](https://excalidraw.com): Hand-drawn style diagram creation tool.
 - [Figma](https://www.figma.com): Collaborative interface design tool.
+- [Image Color Picker](https://imagecolorpicker.com): A tool to pick colors from images and get the color codes for web development or design purposes.
 - [Lucidcharts](https://www.lucidchart.com): Professional chart and diagram creation.
 - [Mockflow](https://www.mockflow.com): Wireframing and prototyping tool for designing user interfaces.
 
