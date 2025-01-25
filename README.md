@@ -4,6 +4,8 @@ This repository contains a collection of websites and tools that I have found us
 
 ## AI Tools
 - [ChatGPT AI](https://chat.openai.com): Assists with daily tasks using AI.
+- [ChatPDF](https://www.chatpdf.com): AI tool for interacting with and extracting insights from PDF documents.
+- [DeepSeek](https://www.deepseek.com): Advanced AI for data analysis and insights.
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
