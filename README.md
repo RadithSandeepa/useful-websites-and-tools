@@ -50,6 +50,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Figma](https://www.figma.com): Collaborative interface design tool.
 - [Image Color Picker](https://imagecolorpicker.com): A tool to pick colors from images and get the color codes for web development or design purposes.
 - [Lucidcharts](https://www.lucidchart.com): Professional chart and diagram creation.
+- [MermaidChart](https://www.mermaidchart.com): Create diagrams and flowcharts using the Mermaid syntax.
 - [Mockflow](https://www.mockflow.com): Wireframing and prototyping tool for designing user interfaces.
 
 ## Emoji and Image Tools
@@ -93,6 +94,7 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Research and Academic Tools
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
+- [Mendeley](https://www.mendeley.com/): Reference manager and academic social network for organizing research papers and citations.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
 - [WorldMetrics](https://worldmetrics.org): Global metrics and statistics visualization for data insights.
 
