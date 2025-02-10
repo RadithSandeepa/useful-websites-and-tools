@@ -133,6 +133,7 @@ This repository contains a collection of websites and tools that I have found us
 ## Miscellaneous
 - [Google Forms](https://www.google.com/forms/about/): A tool for creating surveys, quizzes, and forms with a variety of question types and response options.
 - [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
+- [Speedtest by Ookla](https://www.speedtest.net): A tool to test internet speed, measuring download, upload, and ping for accurate network performance analysis.
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
 
 ## 3D Models and Resources
