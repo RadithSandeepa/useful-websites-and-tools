@@ -8,6 +8,7 @@ This repository contains a collection of websites and tools that I have found us
 - [DeepSeek](https://www.deepseek.com): Advanced AI for data analysis and insights.
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
+- [Perplexity AI](https://www.perplexity.ai): AI-powered search engine for quick and accurate answers.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
 - [Replit AI](https://replit.com): Code generation using AI.
 - [Resumeworded](https://resumeworded.com): Helps improve your resume and LinkedIn profile to boost career prospects.
