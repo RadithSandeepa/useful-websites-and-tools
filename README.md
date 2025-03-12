@@ -5,6 +5,7 @@ This repository contains a collection of websites and tools that I have found us
 ## AI Tools
 - [ChatGPT AI](https://chat.openai.com): Assists with daily tasks using AI.
 - [ChatPDF](https://www.chatpdf.com): AI tool for interacting with and extracting insights from PDF documents.
+- [Claude AI](https://claude.ai): AI assistant by Anthropic, known for safe and helpful responses.
 - [DeepSeek](https://www.deepseek.com): Advanced AI for data analysis and insights.
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
@@ -89,6 +90,10 @@ This repository contains a collection of websites and tools that I have found us
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software): Collaboration and video conferencing tool from Microsoft.
 - [Zoom](https://zoom.us): Video conferencing and online meeting tool.
 
+## Project Management & Collaboration
+- [Huly](https://huly.io/): Open-source all-in-one platform combining project management, communication, and documentation.
+- [Trello](https://trello.com): Kanban board creation tool.
+
 ## Random Task Assigners and Name Drawers
 - [TaskMixr](https://taskmixr.com): Task assignment and management tool for teams.
 - [Wheel of Names](https://wheelofnames.com/): Create a customizable wheel where you can input team members or tasks and spin to make random selections.
@@ -108,9 +113,6 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Text and File Comparison
 - [TextCompare.org](https://www.textcompare.org): Compare two text files for differences.
-
-## Trello
-- [Trello](https://trello.com): Kanban board creation tool.
 
 ## Weather and Visualization Tools
 - [Ventusky](https://www.ventusky.com): Real-time weather visualization with detailed maps of wind, temperature, and precipitation data.
