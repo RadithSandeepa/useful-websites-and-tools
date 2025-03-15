@@ -6,14 +6,14 @@ This repository contains a collection of websites and tools that I have found us
 - [ChatGPT AI](https://chat.openai.com): Assists with daily tasks using AI.
 - [ChatPDF](https://www.chatpdf.com): AI tool for interacting with and extracting insights from PDF documents.
 - [Claude AI](https://claude.ai): AI assistant by Anthropic, known for safe and helpful responses.
-- [DeepSeek](https://www.deepseek.com): Advanced AI for data analysis and insights.
+- [DeepSeek AI](https://www.deepseek.com): Advanced AI for data analysis and insights.
 - [Harpa AI](https://www.harpa.ai): AI-powered browser extension for automating workflows and retrieving content. (Summon: **Alt + A**)
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
 - [Perplexity AI](https://www.perplexity.ai): AI-powered search engine for quick and accurate answers.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
 - [Replit AI](https://replit.com): Code generation using AI.
-- [Resumeworded](https://resumeworded.com): Helps improve your resume and LinkedIn profile to boost career prospects.
+- [Resumeworded AI](https://resumeworded.com): Helps improve your resume and LinkedIn profile to boost career prospects.
 - [Soundraw AI](https://soundraw.io): Music generation using AI.
 - [Starrytars AI](https://starrytars.com): Avatar generation using AI.
 - [Suno AI](https://suno.ai): Song creation from lyrics.
