@@ -10,6 +10,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Harpa AI](https://www.harpa.ai): AI-powered browser extension for automating workflows and retrieving content. (Summon: **Alt + A**)
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
+- [Napkin AI](https://napkin.ai): AI-powered sketching and idea visualization from text prompts.
 - [Perplexity AI](https://www.perplexity.ai): AI-powered search engine for quick and accurate answers.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
 - [Replit AI](https://replit.com): Code generation using AI.
