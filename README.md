@@ -130,6 +130,9 @@ This repository contains a collection of websites and tools that I have found us
 ## Website Status and Downtime
 - [DownDetector](https://downdetector.com): Check website status and downtime.
 
+## Windows Utilities
+- [Windows PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): A set of utilities for power users to enhance productivity.
+
 ## Writing and Readme Files
 - [Blind Text Generator](https://www.blindtextgenerator.com): Generate placeholder text for your projects with customizable formats like Lorem Ipsum or others.
 - [Readme.so](https://readme.so): Create README files without knowing Markdown.
