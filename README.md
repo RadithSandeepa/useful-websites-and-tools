@@ -59,6 +59,7 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Emoji and Image Tools
 - [EmojiCopy.com](https://www.emojicopy.com): Comprehensive emoji library.
+- [Flagpedia.net](https://flagpedia.net): Download country flags in PNG, SVG, or EMOJI format.
 - [Icons8](https://icons8.com): Free transparent images and customizable icons.
 - [Lottiefiles](https://lottiefiles.com): Free animations for React.
 - [Pexels](https://www.pexels.com): Free stock photos.
