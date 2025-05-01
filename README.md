@@ -115,6 +115,9 @@ This repository contains a collection of websites and tools that I have found us
 - [DigitalAttackMap.com](https://www.digitalattackmap.com): Global DDoS attack data visualization.
 - [Top500.org](https://www.top500.org): Tracking the world's most powerful supercomputers.
 
+## Text & Code Sharing
+- [Hastebin](https://hastebin.com): Minimalistic and fast tool to share code or text snippets.
+
 ## Text and File Comparison
 - [TextCompare.org](https://www.textcompare.org): Compare two text files for differences.
 
