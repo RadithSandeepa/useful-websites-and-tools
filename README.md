@@ -24,9 +24,14 @@ This repository contains a collection of websites and tools that I have found us
 ## Anime, Manga, Film, and Games
 - [Before I Play](https://beforeiplay.com): Game information and guidance.
 - [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Media download tools from torrents.
+- [CartoonsArea](https://www.cartoonsarea.cc): Streaming service for cartoons and animated series.
 - [CineMaterial](https://www.cinematerial.com): Movie poster library.
 - [Crunchyroll](https://www.crunchyroll.com): Streaming service for anime, manga, and drama.
 - [Lightnovelpub](https://www.lightnovelpub.com) / [Lightnovelworld](https://www.lightnovelworld.com): Light novel libraries.
+- [NovaManga](https://www.novamanga.com): Manga library and reading platform.
+
+## Base64 Encoding and Decoding Tools
+- [Base64 Guru](https://base64.guru): A comprehensive resource and tool for encoding and decoding base64 data.
 
 ## Business and Domain Names
 - [Domain.lk](https://domain.lk): Domain name registration in Sri Lanka.
@@ -65,6 +70,9 @@ This repository contains a collection of websites and tools that I have found us
 - [Pexels](https://www.pexels.com): Free stock photos.
 - [Redketchup.io](https://redketchup.io): Favicon generator.
 - [Tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
+
+## File Conversion Tools
+- [FreeConvert](https://www.freeconvert.com): Free online file conversion tool for various formats including images, videos, documents, and more.
 
 ## Fitness and Health
 - [PhotoFeeler](https://www.photofeeler.com): Get votes for photos to identify suitable profile pictures.
