@@ -68,6 +68,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Icons8](https://icons8.com): Free transparent images and customizable icons.
 - [Lottiefiles](https://lottiefiles.com): Free animations for React.
 - [Pexels](https://www.pexels.com): Free stock photos.
+- [Picsart Background Changer](https://picsart.com/background-changer/): Free online tool to remove or change image backgrounds easily with AI-powered features.
 - [Redketchup.io](https://redketchup.io): Favicon generator.
 - [Tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
 
