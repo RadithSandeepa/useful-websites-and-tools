@@ -154,7 +154,6 @@ This repository contains a collection of websites and tools that I have found us
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
 
 ## Miscellaneous
-- [Edge Surf Game](edge://surf/): A hidden offline surfing game in Microsoft Edge, similar to Chrome’s dinosaur game. Just type edge://surf/ in the Edge browser’s address bar.
 - [Google Forms](https://www.google.com/forms/about/): A tool for creating surveys, quizzes, and forms with a variety of question types and response options.
 - [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
 - [Speedtest by Ookla](https://www.speedtest.net): A tool to test internet speed, measuring download, upload, and ping for accurate network performance analysis.
@@ -163,3 +162,5 @@ This repository contains a collection of websites and tools that I have found us
 ## 3D Models and Resources
 - [Sketchfab](https://sketchfab.com): A platform for viewing, sharing, and downloading 3D models, including free and paid resources.
 
+## Just for Fun
+- `edge://surf/`: A secret surfing game in Microsoft Edge — ride waves, avoid krakens, and have fun offline!
