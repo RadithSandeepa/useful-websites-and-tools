@@ -96,6 +96,7 @@ This repository contains a collection of websites and tools that I have found us
 ## Media Download and Torrenting
 - [BitTorrent](https://www.bittorrent.com) and [uTorrent](https://www.utorrent.com): Tools for downloading media via torrents.
 - [Ezgif.com](https://ezgif.com): Download GIFs from URLs.
+- [IGram](https://igram.world): Download Instagram content including Videos, Reels, Photos, IGTV, and Carousels with ease.
 - [Savefrom.net](https://en.savefrom.net): YouTube video downloader.
 - [Y2mate](https://www.y2mate.com): Instant YouTube video downloader by adding "pp" after "youtube" in the URL.
 
