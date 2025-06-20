@@ -55,6 +55,9 @@ This repository contains a collection of websites and tools that I have found us
 - [Udemy](https://www.udemy.com): Online learning platform with a variety of courses.
 - [W3Schools](https://www.w3schools.com): Web development tutorials.
 
+## Cybersecurity and Privacy Tools
+- [Have I Been Pwned](https://haveibeenpwned.com): Check if your email or phone number has been involved in a known data breach.
+
 ## Design and Prototyping
 - [Draw.io](https://draw.io): Diagram creation tool.
 - [Excalidraw](https://excalidraw.com): Hand-drawn style diagram creation tool.
