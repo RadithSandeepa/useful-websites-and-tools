@@ -78,7 +78,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Icons8](https://icons8.com): Free transparent images and customizable icons.
 - [Lottiefiles](https://lottiefiles.com): Free animations for React.
 - [Pexels](https://www.pexels.com): Free stock photos.
-- [Picsart Background Changer](https://picsart.com/background-changer/): Free online tool to remove or change image backgrounds easily with AI-powered features.
+- [Picsart Background Changer](https://picsart.com/background-changer): Free online tool to remove or change image backgrounds easily with AI-powered features.
 - [Redketchup.io](https://redketchup.io): Favicon generator.
 - [Tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
 
@@ -116,16 +116,16 @@ This repository contains a collection of websites and tools that I have found us
 - [Zoom](https://zoom.us): Video conferencing and online meeting tool.
 
 ## Project Management & Collaboration
-- [Huly](https://huly.io/): Open-source all-in-one platform combining project management, communication, and documentation.
+- [Huly](https://huly.io): Open-source all-in-one platform combining project management, communication, and documentation.
 - [Trello](https://trello.com): Kanban board creation tool.
 
 ## Random Task Assigners and Name Drawers
 - [TaskMixr](https://taskmixr.com): Task assignment and management tool for teams.
-- [Wheel of Names](https://wheelofnames.com/): Create a customizable wheel where you can input team members or tasks and spin to make random selections.
+- [Wheel of Names](https://wheelofnames.com): Create a customizable wheel where you can input team members or tasks and spin to make random selections.
 
 ## Research and Academic Tools
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
-- [Mendeley](https://www.mendeley.com/): Reference manager and academic social network for organizing research papers and citations.
+- [Mendeley](https://www.mendeley.com): Reference manager and academic social network for organizing research papers and citations.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
 - [WorldMetrics](https://worldmetrics.org): Global metrics and statistics visualization for data insights.
 
@@ -138,6 +138,7 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Text & Code Sharing
 - [Hastebin](https://hastebin.com): Minimalistic and fast tool to share code or text snippets.
+- [OnlineNotepad.org](https://onlinenotepad.org): A free, fast, and minimal online notepad for quick writing, note-taking, or saving temporary text across devices.
 
 ## Text and File Comparison
 - [TextCompare.org](https://www.textcompare.org): Compare two text files for differences.
@@ -157,7 +158,7 @@ This repository contains a collection of websites and tools that I have found us
 - [DownDetector](https://downdetector.com): Check website status and downtime.
 
 ## Windows Utilities
-- [Windows PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/): A set of utilities for power users to enhance productivity.
+- [Windows PowerToys](https://learn.microsoft.com/en-us/windows/powertoys): A set of utilities for power users to enhance productivity.
 
 ## Writing and Readme Files
 - [Blind Text Generator](https://www.blindtextgenerator.com): Generate placeholder text for your projects with customizable formats like Lorem Ipsum or others.
@@ -165,7 +166,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
 
 ## Miscellaneous
-- [Google Forms](https://www.google.com/forms/about/): A tool for creating surveys, quizzes, and forms with a variety of question types and response options.
+- [Google Forms](https://www.google.com/forms/about): A tool for creating surveys, quizzes, and forms with a variety of question types and response options.
 - [PineTools](https://pinetools.com): Free online tools for various tasks (e.g., merging images).
 - [Speedtest by Ookla](https://www.speedtest.net): A tool to test internet speed, measuring download, upload, and ping for accurate network performance analysis.
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
@@ -174,4 +175,4 @@ This repository contains a collection of websites and tools that I have found us
 - [Sketchfab](https://sketchfab.com): A platform for viewing, sharing, and downloading 3D models, including free and paid resources.
 
 ## Just for Fun
-- `edge://surf/`: A secret surfing game in Microsoft Edge — ride waves, avoid krakens, and have fun offline!
+- `edge://surf`: A secret surfing game in Microsoft Edge — ride waves, avoid krakens, and have fun offline!
