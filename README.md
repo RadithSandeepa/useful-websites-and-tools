@@ -3,18 +3,23 @@
 This repository contains a collection of websites and tools that I have found useful throughout my life. The list is organized alphabetically and includes descriptions of each resource.
 
 ## AI Tools
+- [Aithor AI](https://aithor.com): AI-powered writing assistant that helps generate academic content while maintaining originality and tone.
 - [ChatGPT AI](https://chat.openai.com): Assists with daily tasks using AI.
 - [ChatPDF](https://www.chatpdf.com): AI tool for interacting with and extracting insights from PDF documents.
 - [Claude AI](https://claude.ai): AI assistant by Anthropic, known for safe and helpful responses.
 - [DeepSeek AI](https://www.deepseek.com): Advanced AI for data analysis and insights.
-- [Gamma AI](https://gamma.app/): AI-powered tool to create beautiful presentations, documents, and webpages from simple prompts.
+- [Gamma AI](https://gamma.app): AI-powered tool to create beautiful presentations, documents, and webpages from simple prompts.
+- [Grammarly AI](https://www.grammarly.com): Writing assistant that corrects grammar, improves tone, and offers suggestions for clarity and engagement.
 - [Grok AI](https://grok.com): Conversational AI developed by xAI (Elon Musk), integrated with X (formerly Twitter).
 - [Harpa AI](https://www.harpa.ai): AI-powered browser extension for automating workflows and retrieving content. (Summon: **Alt + A**)
+- [Humanize AI](https://www.humanizeai.pro): Converts AI-generated or robotic text into more natural, human-sounding language.
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
 - [Napkin AI](https://napkin.ai): AI-powered sketching and idea visualization from text prompts.
+- [Olovka AI](https://www.olovka.ai): AI-based paraphrasing and summarization tool to rewrite or improve academic and professional text.
 - [Perplexity AI](https://www.perplexity.ai): AI-powered search engine for quick and accurate answers.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
+- [Quillbot AI](https://quillbot.com): Paraphrasing, grammar checking, and humanizing tool for refining and naturalizing writing.
 - [Replit AI](https://replit.com): Code generation using AI.
 - [Resumeworded AI](https://resumeworded.com): Helps improve your resume and LinkedIn profile to boost career prospects.
 - [Soundraw AI](https://soundraw.io): Music generation using AI.
