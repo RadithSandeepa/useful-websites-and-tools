@@ -143,6 +143,9 @@ This repository contains a collection of websites and tools that I have found us
 ## Text and File Comparison
 - [TextCompare.org](https://www.textcompare.org): Compare two text files for differences.
 
+## UI Components, Templates & Frontend Resources
+- [FreeFrontend](https://freefrontend.com): A curated collection of free frontend components, UI snippets, templates, and code examples for developers, covering HTML, CSS, and JavaScript.
+
 ## Weather and Visualization Tools
 - [Ventusky](https://www.ventusky.com): Real-time weather visualization with detailed maps of wind, temperature, and precipitation data.
 
