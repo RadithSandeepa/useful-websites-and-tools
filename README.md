@@ -116,6 +116,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Zoom](https://zoom.us): Video conferencing and online meeting tool.
 
 ## Project Management & Collaboration
+- [Database.build](https://database.build): No-code platform to visually build and manage collaborative online databases with real-time sharing, user roles, and app views — great for internal tools or MVPs.
 - [Huly](https://huly.io): Open-source all-in-one platform combining project management, communication, and documentation.
 - [Trello](https://trello.com): Kanban board creation tool.
 
