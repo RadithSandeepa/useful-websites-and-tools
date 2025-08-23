@@ -80,6 +80,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Pexels](https://www.pexels.com): Free stock photos.
 - [Picsart Background Changer](https://picsart.com/background-changer): Free online tool to remove or change image backgrounds easily with AI-powered features.
 - [Redketchup.io](https://redketchup.io): Favicon generator.
+- [SVG Repo](https://www.svgrepo.com): Free SVG icons and vectors with quick search, SVG/PNG downloads, inline SVG copy, and basic recolor tools (check each icon’s license).
 - [Tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
 
 ## File Conversion Tools
