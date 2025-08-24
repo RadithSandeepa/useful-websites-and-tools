@@ -167,6 +167,7 @@ This repository contains a collection of websites and tools that I have found us
 
 ## Writing and Readme Files
 - [Blind Text Generator](https://www.blindtextgenerator.com): Generate placeholder text for your projects with customizable formats like Lorem Ipsum or others.
+- [Clipboard to Markdown](https://euangoddard.github.io/clipboard2markdown/?utm_source=chatgpt.com): Convert rich text/HTML from your clipboard into clean Markdown instantly.
 - [Gittodoc](https://gittodoc.com/): Tool to generate a static HTML page from a Markdown README file, useful for creating browsable documentation from GitHub repos.
 - [Readme.so](https://readme.so): Create README files without knowing Markdown.
 - [Wordtune AI](https://www.wordtune.com): Summarize notes using AI.
