@@ -16,6 +16,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Ideogram AI](https://ideogram.ai): Image generation from text prompts.
 - [Midjourney AI](https://www.midjourney.com): Art generation from descriptions.
 - [Napkin AI](https://napkin.ai): AI-powered sketching and idea visualization from text prompts.
+- [NotebookLM](https://notebooklm.google): AI-powered research and note-taking assistant by Google, designed to summarize, organize, and analyze documents.
 - [Olovka AI](https://www.olovka.ai): AI-based paraphrasing and summarization tool to rewrite or improve academic and professional text.
 - [Perplexity AI](https://www.perplexity.ai): AI-powered search engine for quick and accurate answers.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
