@@ -1,5 +1,10 @@
 # Useful Websites and Tools
 
+> **Disclaimer:**  
+> The websites and tools listed in this repository are shared solely for informational and educational purposes.  
+> While I have personally found them useful, I do **not** own, operate, or verify the security, reliability, or legality of any third-party websites or applications linked here.  
+> Use them at your own discretion and risk. I do not guarantee their safety, accuracy, or continued availability.
+
 This repository contains a collection of websites and tools that I have found useful throughout my life. The list is organized alphabetically and includes descriptions of each resource.
 
 ## AI Tools
