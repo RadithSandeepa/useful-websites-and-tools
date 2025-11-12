@@ -132,6 +132,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Wheel of Names](https://wheelofnames.com): Create a customizable wheel where you can input team members or tasks and spin to make random selections.
 
 ## Research and Academic Tools
+- [Consensus](https://consensus.app): AI-powered research assistant that searches, analyzes, and summarizes scientific findings from peer-reviewed papers to answer research questions with evidence-based results.
 - [Google Scholar](https://scholar.google.com): Research papers and articles.
 - [Mendeley](https://www.mendeley.com): Reference manager and academic social network for organizing research papers and citations.
 - [SciHub](https://sci-hub.se): Access to pirated research papers.
