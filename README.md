@@ -26,6 +26,7 @@ This repository contains a collection of websites and tools that I have found us
 - [Perplexity AI](https://www.perplexity.ai): AI-powered search engine for quick and accurate answers.
 - [Pictory AI](https://pictory.ai): Video editing using AI.
 - [Quillbot AI](https://quillbot.com): Paraphrasing, grammar checking, and humanizing tool for refining and naturalizing writing.
+- [Relume](https://www.relume.io): AI-powered tool that generates sitemaps, wireframes, and website content from simple text prompts, helping speed up web design workflows.
 - [Replit AI](https://replit.com): Code generation using AI.
 - [Resumeworded AI](https://resumeworded.com): Helps improve your resume and LinkedIn profile to boost career prospects.
 - [Soundraw AI](https://soundraw.io): Music generation using AI.
