@@ -96,6 +96,9 @@ This repository contains a collection of websites and tools that I have found us
 ## Fitness and Health
 - [PhotoFeeler](https://www.photofeeler.com): Get votes for photos to identify suitable profile pictures.
 
+## Home Improvement and Cost Planning
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator): Free roof replacement cost calculator for U.S. homeowners, with planning inputs for roof size, material, pitch, tear-off needs, and location. No account required.
+
 ## Grammar and Plagiarism
 - [Duplichecker](https://www.duplichecker.com): Plagiarism detection and AI content check.
 - [Grammarly](https://www.grammarly.com): Grammar and writing assistant.
