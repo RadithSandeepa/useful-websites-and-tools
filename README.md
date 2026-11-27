@@ -186,6 +186,8 @@ This repository contains a collection of websites and tools that I have found us
 - [Speedtest by Ookla](https://www.speedtest.net): A tool to test internet speed, measuring download, upload, and ping for accurate network performance analysis.
 - [tmpfiles.org](https://tmpfiles.org): Share photos without quality loss.
 
+- [StagePeek](https://stagepeek.live): Interactive 2D seating chart and 3D concert stage-view simulator covering 201 stadiums and arenas worldwide with 1x–10x camera zoom.
+
 ## 3D Models and Resources
 - [Sketchfab](https://sketchfab.com): A platform for viewing, sharing, and downloading 3D models, including free and paid resources.
 
